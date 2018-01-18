@@ -1,0 +1,2 @@
+# Coloretto
+Simple Card Game
